@@ -1,6 +1,6 @@
 ### Hi there 👋, MOKNIA Youssef
 #### Data Science Student 
-![Data Science Student ](https://pbs.twimg.com/profile_banners/1438259562012942340/1720013310/1080x360)
+![Data Science Student ](https://github.com/YOUSSEF-MOKNIA/YOUSSEF-MOKNIA/blob/main/Github%20Banner.png)
 
 Hey there! I'm diving into the world of data science and web development as a student eager to learn and create cool stuff. I love tinkering with code to build projects that are both fun and useful. Let's explore and innovate together!
 
