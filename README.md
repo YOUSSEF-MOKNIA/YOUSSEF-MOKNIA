@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**YOUSSEF-MOKNIA/YOUSSEF-MOKNIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, MOKNIA Youssef
+#### Data Science Student 
+![Data Science Student ](https://www.canva.com/design/DAGJ5UgFrvs/dOJI9O3Od5RWbLY2g-8EZA/view?utm_content=DAGJ5UgFrvs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-Here are some ideas to get you started:
+Hey there! I'm diving into the world of data science and web development as a student eager to learn and create cool stuff. I love tinkering with code to build projects that are both fun and useful. Let's explore and innovate together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / REACT / HTML / CSS / SQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
