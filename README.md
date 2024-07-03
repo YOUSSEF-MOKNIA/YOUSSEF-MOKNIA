@@ -1,10 +1,14 @@
-### Hi there 👋, MOKNIA Youssef
-#### Data Science Student 
 ![Data Science Student ](https://github.com/YOUSSEF-MOKNIA/YOUSSEF-MOKNIA/blob/main/Github%20Banner.png)
 
-Hey there! I'm diving into the world of data science and web development as a student eager to learn and create cool stuff. I love tinkering with code to build projects that are both fun and useful. Let's explore and innovate together!
+# Hi there 👋, I'm MOKNIA Youssef
+Diving into the world of data science and web development as a student eager to learn and create cool stuff. I love tinkering with code to build projects that are both fun and useful. Let's explore and innovate together!
 
-Skills: Python / REACT / HTML / CSS / SQL
+## Skills :
+* 🐍 Python
+* 🤖 Machine Learning
+* 🗄️ SQL
+* ⚛️ REACT
+* 💻 HTML, CSS, Js
 
 
 
