@@ -4,9 +4,10 @@
 Diving into the world of data science and web development as a student eager to learn and create cool stuff. I love tinkering with code to build projects that are both fun and useful. Let's explore and innovate together!
 
 ## Skills :
-* 🐍 Python
-* 🤖 Machine Learning
+* 🐍 Python (Pandas, Numpy)
+* 🤖 Machine Learning / Deep Learning (Scikit-learn, Keras, Tensorflow)
 * 🗄️ SQL
+* 📊 Statistics and Probability
 * ⚛️ REACT
 * 💻 HTML, CSS, Js
 
